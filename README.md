@@ -1,7 +1,7 @@
 # MakeSPPHackathon-GoGreen
 MakeSPP Hackathon Go Green Group Project
 
-A three-day virtual hackathon for high schoolers. 
+Overview: A three-day virtual hackathon for high schoolers. 
 
 Purpose: With my group, we submitted our website to the environmental studies category. In our website, Go Green, we highlighted information regarding to sustanibility and climate change. 
 
