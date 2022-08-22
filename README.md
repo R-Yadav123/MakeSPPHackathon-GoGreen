@@ -1,13 +1,37 @@
-# MakeSPPHackathon-GoGreen
-MakeSPP Hackathon Go Green Group Project
+Welcome to Glitch
+=================
 
-Overview: A three-day virtual hackathon for high schoolers. 
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
-Purpose: With my group, we submitted our website to the environmental studies category. In our website, Go Green, we highlighted information regarding to sustanibility and climate change. 
+**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
 
-By creating a navigation bar, along with an adventure-styled personality quiz about how eco-friendly the user is, we were able to expand on our coding skills.
+Find out more [about Glitch](https://glitch.com/about).
 
-Additionally, we linked our sources to further encourage users to learn more about living an eco-friendly lifestyle. We also included tips for users to make the world
-greener. 
 
-This website was completely coded in HTML, CSS, and Javascript.
+Your Project
+------------
+
+### ← README.md
+
+That's this file, where you can tell people what your cool website does and how you built it.
+
+### ← index.html
+
+Where you'll write the content of your website. 
+
+### ← style.css
+
+CSS files add styling rules to your content.
+
+### ← script.js
+
+If you're feeling fancy you can add interactivity to your site with JavaScript.
+
+### ← assets
+
+Drag in `assets`, like images or music, to add them to your project
+
+Made by [Glitch](https://glitch.com/)
+-------------------
+
+\ ゜o゜)ノ
